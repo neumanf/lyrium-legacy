@@ -1,8 +1,8 @@
 # Lyrium
 
-<center><img src="./assets/images/logoLarge.png" height="300"></center>
+<p align="center"><img src="./assets/images/logoLarge.png" width="500" height="200"></p>
 
-<center>Lyrium is a cross platform desktop lyrics app powered by <a href="https://docs.nodegui.org/" >NodeGui</a>, built on top of <a href="https://www.qt.io/" >QT</a>.</center>
+<p align="center">Lyrium is a cross platform desktop lyrics app powered by <a href="https://docs.nodegui.org/" >NodeGui</a>, built on top of <a href="https://www.qt.io/" >QT</a>.</p>
 
 ### ⬇️ Download
 
