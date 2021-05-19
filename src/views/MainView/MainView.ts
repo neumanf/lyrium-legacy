@@ -2,7 +2,6 @@ import {
     Direction,
     FlexLayout,
     QBoxLayout,
-    QDialog,
     QLabel,
     QLineEdit,
     QPushButton,
