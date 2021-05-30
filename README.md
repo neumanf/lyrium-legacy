@@ -12,13 +12,18 @@ _Soon™️_
 
 <center><img src="./assets/images/screenshot.png" height="400"></center>
 
-### 🔨 Build
+### 🔨 Build and run
 
 ```bash
+# Run
 git clone https://github.com/neumanf/lyrium
 cd lyrium
 npm install
 npm start
+# Build
+npx nodegui-packer --init Lyrium
+npm run build
+npx nodegui-packer --pack ./dist
 ```
 
 ### 📜 License

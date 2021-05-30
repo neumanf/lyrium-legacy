@@ -25,6 +25,9 @@ QPushButton {
     border: 0px;
     border-radius: 5px;
 }
+QPushButton:hover {
+    background-color: #9e77e7;
+}
 QTextBrowser {
     background-color: #ffffff;
     color: #916dd2;
