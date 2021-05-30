@@ -21,7 +21,7 @@ cd lyrium
 npm install
 npm start
 # Build
-npx nodegui-packer --init Lyrium
+npx nodegui-packer --init Lyrium # First time only
 npm run build
 npx nodegui-packer --pack ./dist
 ```
